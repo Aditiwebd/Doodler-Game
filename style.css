@@ -1,0 +1,23 @@
+.grid{
+    width: 400px;
+    height: 600px;
+    background-color: blueviolet;
+    position: relative;
+    font-size: 200px;
+    margin-top: 20px;
+    margin-left: 470px;
+    text-align: center;
+}
+.doodler{
+    width: 60px;
+    height: 85px;
+    background-image: url(shinchan.png) no-repeat center;
+    background-color: red;
+    position:absolute;
+}
+.platform{
+    width: 85px;
+    height: 15px;
+    background-color: brown;
+    position:absolute;
+}
